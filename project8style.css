@@ -1,6 +1,7 @@
 td, th {
     border: 2px solid black;
     font-family: Verdana;
+    
 }
 
 table {
@@ -32,5 +33,5 @@ color: blue;
 color: red;
 }
 
-margin: auto;
+
 
