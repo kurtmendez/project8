@@ -1,13 +1,13 @@
-td, th {
-    border: 2px solid black;
-    font-family: Verdana;
+
     
-}
+    
+
 
 table {
     border-collapse: collapse;
     width: 650px;
     margin: auto;
+    font-family: Verdana;
     
 }
 
