@@ -1,13 +1,12 @@
 td, th {
     border: 2px solid black;
     font-family: Verdana;
-    text-align: center;
 }
 
 table {
     border-collapse: collapse;
     width: 650px;
-    text-align: center;
+    
 }
 
 th {
@@ -17,7 +16,6 @@ th {
 h2 { 
 color: green;
 font-weight: bold;
-text-align: center;
 }
 
 td {
