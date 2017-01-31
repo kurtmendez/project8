@@ -1,4 +1,6 @@
-
+td, th {
+border-style: dotted;
+}
 table {
     border-collapse: collapse;
     width: 650px;
