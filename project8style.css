@@ -1,5 +1,5 @@
 td, th {
-border-style: dotted;
+border: 2px solid black;
 }
 table {
     border-collapse: collapse;
