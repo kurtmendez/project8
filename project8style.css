@@ -1,16 +1,18 @@
+td, th {
+border: 2px solid black;
+}
+
 table {
     border-collapse: collapse;
     width: 650px;
     margin: auto;
-    font-family: Verdana;
-    border: 2px solid black;
-    
+    font-family: Verdana;   
 }
 
 th {
     height: 30px;
     width: 20%;
-    
+
 }
 
 h2 { 
