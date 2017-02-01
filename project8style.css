@@ -3,13 +3,14 @@ table {
     width: 650px;
     margin: auto;
     font-family: Verdana;
+    border: 2px solid black;
     
 }
 
 th {
     height: 30px;
     width: 20%;
-    border: 2px solid black;
+    
 }
 
 h2 { 
