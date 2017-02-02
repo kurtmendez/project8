@@ -8,14 +8,13 @@ table {
     margin: auto;
     font-family: Verdana;
     text-align: center;
-    padding: 8px 0px 8px 0px;
 }
 
 th {
     height: 30px;
     width: 20%;
     background-color: yellow;
-
+    padding: 8px 0px 8px 0px
 }
 
 h1 { 
@@ -27,7 +26,9 @@ text-align: center;
 td {
 border-style: dotted;
 border-color: blue;
+padding: 8px 0px 8px 0px
 }
+
 .blue {
 color: blue;
 }
